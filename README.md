@@ -17,6 +17,9 @@ Run in terminal:
 
 git clone https://github.com/athif119140191/HealingGO.git && cd HealingGO && npm install
 
+### Link Github
+https://github.com/athif119140191/HealingGO
+
 ### Link APK
 
 ### Link Instalasi dan demo APK
