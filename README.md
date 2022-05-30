@@ -1,8 +1,8 @@
 # HealingGO
 ## About The Project
-Application name : PAM-async-API
+Application name : HealingGO
 
-Aplikasi ini digunakan untuk menampilkan informasi orang. Informasi detail dapat dilihat apabila mengklik list orang.
+Aplikasi ini digunakan untuk memilih bandara asal, bandara tujuan, dan tanggal berangkat. Untuk digunakan sebagai parameter filter data bandara.
 
 ### Daftar package yang digunakan 
     * React
