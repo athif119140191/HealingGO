@@ -21,6 +21,7 @@ git clone https://github.com/athif119140191/HealingGO.git && cd HealingGO && npm
 https://github.com/athif119140191/HealingGO
 
 ### Link APK
+https://drive.google.com/file/d/1DpxmlMeuIflos_UW-IBZban_uJgDxald/view?usp=sharing
 
 ### Link Instalasi dan demo APK
 
